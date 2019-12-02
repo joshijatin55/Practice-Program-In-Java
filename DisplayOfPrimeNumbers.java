@@ -24,7 +24,7 @@ public class DisplayOfPrimeNumbers {
 			    	   break;
 			    	if(i==x)
 			    	{
-			    		System.out.println(x);
+			    		System.out.print(x+" ");
 			    		N--;
 			    	}
 			    	x++;
