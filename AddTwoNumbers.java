@@ -2,7 +2,7 @@ package handsOnPrograms;
 import java.util.Scanner;
 public class AddTwoNumbers {
       
-	//New Added Comment
+	//Extra Added Code For Demonstration
 	public static void main(String[] args)
 	{
 		float number1,number2;
